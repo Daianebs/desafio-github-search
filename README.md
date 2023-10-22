@@ -1,7 +1,9 @@
-# desafio-github-search
-Criando um App Android para compartilhar seu portfolio de projeto 
+# Desafio GitHub Search
+Criando um App Android para compartilhar seu portfolio de projeto
 
-Criar um App Android simples que armazene um usuário do GitHub (informado em uma tela inicial) e liste todos os seus repositórios públicos. Garanta que o nome do usuário seja salvo e o App tenha a capacidade de redefinir essa informação.
+## Sobre o Projeto
+Este desafio faz parte do Santander Bootcamp 2023 - Mobile Android com Kotlin, e tem como objetivo a criação de um aplicativo Android simples para buscar e compartilhar repositórios.
+Funcionalidade: Os usuários podem inserir um nome de usuário do GitHub e o app lista todos os seus repositórios públicos.
 
-![image](https://user-images.githubusercontent.com/5827265/188474294-4472bcc0-24ee-4ccd-80a8-7cee0372e7fa.png)
+![Screenshot_app-githubSearch.png](..%2F..%2Fdio%2FScreenshot_app-githubSearch.png)
 
