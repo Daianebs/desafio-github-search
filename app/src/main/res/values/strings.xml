@@ -2,4 +2,7 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_name">saved_name</string>
+    <string name="erro_api">Ops! nome invalido</string>
+    <string name="usuario_vazio">Informe o nome do usuário por favor</string>
 </resources>
